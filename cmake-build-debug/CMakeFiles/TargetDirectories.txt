@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/Desafios/Logica_Trunfo/cmake-build-debug/CMakeFiles/Logica_Trunfo.dir
+C:/Users/Administrator/Desktop/Desafios/Logica_Trunfo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/Desafios/Logica_Trunfo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
